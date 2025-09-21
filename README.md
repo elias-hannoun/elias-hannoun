@@ -20,7 +20,7 @@ I am a 4th year Software Engineering student at Concordia University, graduating
 
 ## ⚡ Skills, APIs, Technologies
 
-### 💻 Programming Languages
+### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-A87C5E?logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -32,7 +32,7 @@ I am a 4th year Software Engineering student at Concordia University, graduating
 ![SQL](https://img.shields.io/badge/SQL-A8A9AD?logo=database&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### 🔧 Tools & Technologies
+### 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white)
