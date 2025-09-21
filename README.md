@@ -57,10 +57,11 @@ I am a 4th year Software Engineering student at Concordia University, graduating
 ---
 
 <!--
+
 ![Snake animation](https://raw.githubusercontent.com/yourusername/elias-hannoun/output/github-contribution-grid-snake.svg)
--->
 
 ---
+-->
 
 <!--
 
@@ -69,9 +70,8 @@ I am a 4th year Software Engineering student at Concordia University, graduating
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-hannoun&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elias-hannoun)
 
--->
-
 ---
+-->
 
 📫 Reach me at:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/elias-hannoun)  
