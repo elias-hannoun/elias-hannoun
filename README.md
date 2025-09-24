@@ -72,4 +72,7 @@ I am a 4th year Software Engineering student at Concordia University, graduating
 -->
 
 📫 Reach me at:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/elias-hannoun)  
+<!-- 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/elias-hannoun) 
+--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/elias-hannoun)
