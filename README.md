@@ -44,7 +44,7 @@ I am a 4th year Software Engineering student at Concordia University, graduating
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------|
@@ -62,17 +62,36 @@ I am a 4th year Software Engineering student at Concordia University, graduating
 -->
 
 <!--
-
 ## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elias-hannoun&theme=tokyonight&show_icons=true&show=reviews,prs_merged&hide=stars,contribs&hide_title=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elias-hannoun&layout=compact&theme=tokyonight" height="150" />
+</div>
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=elias-hannoun&theme=radical&mode=daily" alt="GitHub Streak" /></a>
+</div>
+
+<!--
 ![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=elias-hannoun&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elias-hannoun&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=elias-hannoun)
 
 ---
--->
 
-📫 Reach me at:  
+
+--->
+
+📫 Connect with me:  
 <!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/elias-hannoun) 
 --->
+
+<!-- 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/elias-hannoun)
+--->
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/elias-hannoun" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ec6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+</a>
