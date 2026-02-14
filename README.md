@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I am a 4th year Software Engineering student at Concordia University, graduating in April 2026. 🎓 
 
-## ⚡ Skills, APIs, Technologies
+## ⚡ Skills, Languages, Technologies
 
 ### 💻 Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
