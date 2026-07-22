@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Hi, I'm Elias, welcome to my profile! 👋
 
-I am a 4th year Software Engineering student at Concordia University, graduating in April 2026. 🎓 
+I am a recent Software Engineering graduate from Concordia University. 🎓 
 
 ## ⚡ Skills, Languages, Technologies
 
