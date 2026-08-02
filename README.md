@@ -92,9 +92,5 @@ I am a recent Software Engineering graduate from Concordia University. 🎓
 --->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/elias-hannoun" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ec6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-</a>
-<a href="https://eliashannoun.com" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=%F0%9F%8C%90%20Website&label=&color=282c34&style=for-the-badge" height="35" alt="Website" />
-</a>
+<a href="https://linkedin.com/in/elias-hannoun" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ec6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
+<a href="https://eliashannoun.com" target="_blank"><img src="https://img.shields.io/static/v1?message=%F0%9F%8C%90%20Website&label=&color=282c34&style=for-the-badge" height="35" alt="Website" /></a>
