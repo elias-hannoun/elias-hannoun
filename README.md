@@ -48,9 +48,16 @@ I am a recent Software Engineering graduate from Concordia University. 🎓
 
 | Project | Description | Tech Stack |
 |---------|-------------|------|
-| [**ConUMap**](https://github.com/elias-hannoun/ConUMap) 🗺️| Campus navigation mobile app for Concordia students offering indoor and outdoor maps and directions.	| React Native, Google Maps API |
+| [**Musiqa**](https://musiqa.eliashannoun.com/) 🎼| A music notation and chord management platform, designed to handle music libraries efficiently. | Python, Next.js, PostgreSQL, Docker, CI/CD |
+| [**AeroML**](https://www.eliashannoun.com/en/projects/aeroml) ⚙️| A machine learning project developed in partnership with Pratt & Whitney, featuring an LLM-guided no-code workflow. | Python, React, SQLite, DuckDB, Machine Learning, LLM Integration |
+| [**RoadBuddy AI**](https://github.com/calineb7/RoadBuddy-AI) 🚗| A computer vision and machine learning application designed to identify early driver fatigue and improve road safety. | Python, MongoDB, Machine Learning, Computer Vision |
+| [**ConUMap**](https://github.com/elias-hannoun/ConUMap) 🗺️| Campus navigation mobile app for Concordia students offering indoor and outdoor maps and directions.	| React Native, Python, Expo, Google Maps API |
+
+
+<!--
 | [**Royal Car Rental**](https://github.com/elias-hannoun/Royal-Car-Rental) 🏎️ | Car rental website with secure user authentication, personal reservation management, and a real-time search and booking system. | React, Spring Boot, MongoDB |
 | [**Personal Finance Tracking App**](https://github.com/elias-hannoun/GitIWillSurvive) 📈 | A personal finance tracking and management application, built in 24 hours during a ConUHacks Hackathon.| Java |
+-->
 
 ---
 
@@ -92,8 +99,8 @@ I am a recent Software Engineering graduate from Concordia University. 🎓
 --->
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/elias-hannoun" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ec6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
 <a href="https://eliashannoun.com" target="_blank"><img src="https://img.shields.io/static/v1?message=%F0%9F%8C%90%20Website&label=&color=282c34&style=for-the-badge" height="35" alt="Website" /></a>
+<a href="https://linkedin.com/in/elias-hannoun" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=007ec6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" /></a>
 
 
 <!-- ====================================NEW Design==================================== --->
