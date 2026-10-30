@@ -65,7 +65,7 @@ I am a Software Developer and a recent Software Engineering graduate from Concor
       <td>Cross-platform campus navigation mobile app for Concordia students offering indoor and outdoor maps and directions.</td>
       <td><code>React Native</code> <code>Expo</code> <code>Python</code></td>
     </tr>
-  </tbody>
+  </tbody> 
 </table>
 
 <br>
@@ -74,62 +74,89 @@ I am a Software Developer and a recent Software Engineering graduate from Concor
 
 ## 💻 Tech Stack
 
-<details>
+<details open>
   <summary><b>Languages</b></summary>
   <br>
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://custom-icon-badges.demolab.com/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </details>
 
-<details>
+<details open>
   <summary><b>Frameworks & Libraries</b></summary>
   <br>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </details>
 
-<details>
+<details open>
   <summary><b>Databases, Cloud & DevOps</b></summary>
   <br>
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </details>
 
-<details>
+<details open>
   <summary><b>Design & Tools</b></summary>
   <br>
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
-  <img src="https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white" alt="Affinity Designer" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="Draw.io" />
+  <img src="https://img.shields.io/badge/affinity_designer-%231B72BE.svg?style=for-the-badge&logo=affinitydesigner&logoColor=white" alt="Affinity Designer" />
+  <img src="https://img.shields.io/badge/adobe_illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
 </details>
 
 <br>
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=elias-hannoun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=elias-hannoun&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="Top Languages" width="48%" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=elias-hannoun&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
+</div> -->
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=elias-hannoun&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" />
+</div>
+
+<br>
+
+<!-- Snake Animation -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elias-hannoun/elias-hannoun/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elias-hannoun/elias-hannoun/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/elias-hannoun/elias-hannoun/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 <br>
 <div align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=elias-hannoun&icon=0&color=38B2AC" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=elias-hannoun&icon=0&color=4B9BFF" alt="Profile Views">
   </a>
 </div>
+
+<hr style="border: 1px solid #4B9BFF; margin: 20px 0;">
+
+<p align="center">
+  <i>Thanks for dropping by! Feel free to reach out if you want to collaborate on a project or talk tech.</i>
+</p>
